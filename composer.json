@@ -1,0 +1,15 @@
+{
+    "name": "edem/gs",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Edem\\Gs\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "edem"
+        }
+    ],
+    "require": {}
+}
